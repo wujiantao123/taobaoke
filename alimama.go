@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chromedp/chromedp/runner"
+	"github.com/chromedp/chromedp"
 
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/cdproto/network"
